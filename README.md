@@ -1,3 +1,2 @@
-# Odin_Project
-
-Hello Odin!
+# Odin_project
+Odinproject
